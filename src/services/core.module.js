@@ -1,4 +1,5 @@
 import routerHelperService from './router-helper/router-helper.service';
+import angular from 'angular';
 
 const coreModule = angular.module('app.core', [
 	'ui.router'
